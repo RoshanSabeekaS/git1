@@ -1,1 +1,5 @@
-console.log("welcome to the git course");
+console.log("welcome to the git learning");
+
+for(var i=0;i<5;i++){
+    console.log("JS");
+}
